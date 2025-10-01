@@ -17,17 +17,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=3224800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThnVTGTS7dX3rjTijOIpVh-oUAnzdzKX_9-g&s" group-title="",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=3224800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",Live Cricket
-https://hello-people-tv-proxy.tiiny.io/?url=http://shacktv.com:8080/live/803comb/4159355/21818.m3u8
+#EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/06/15/tv_covers_e047817245ae519fcbc721230f3b4b74_goplay_channel24_2560_x_1440_01_01.jpg?w=1600&q=75" group-title="",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=3224800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ekattorbd.com/contents/cache/images/1200x630x1/uploads/media/2023/08/13/default-f5a63c8327b98eafee564f28c3a9ebdb.png" group-title="", Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=3224800.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2020/04/03/independent_television_logo.jpg" group-title="",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=3224800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
