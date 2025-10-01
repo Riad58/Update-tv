@@ -14,8 +14,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkAaSWp4lqqpwzbneVWF_JtrMp6Co8igjkA&amp;s" group-title="Bangladeshi",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=3224800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=d7m85rC0e5qy3mYVsNkUtQ&expires=1735786995&user=98fbbc7885a9470e920abab5d870f7c3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=3224800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.m3u8
